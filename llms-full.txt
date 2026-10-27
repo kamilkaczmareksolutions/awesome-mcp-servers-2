@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -3849,6 +3849,17 @@ German employment law for small companies: 38 read-only tools for notice periods
 - Tags: legal, hr, employment-law, germany, remote
 - Category: Legal and Court Data
 - Streamable HTTP endpoint: https://hr.lintelly.com/mcp
+
+### Polish MCP Servers
+
+Stdio server with 12 read-only tools for Polish law and public registers (Sejm ELI acts, SAOS judgments, tenders, building permits, land parcels and zoning), each running a public Apify Actor billed to your Apify account.
+
+- URL: https://github.com/kamilkaczmareksolutions/polish-mcp-servers
+- Language: TypeScript
+- Provider: Community
+- Official: no
+- Tags: legal, court-data, poland, public-registers, apify
+- Category: Legal and Court Data
 
 ### US Code MCP
 

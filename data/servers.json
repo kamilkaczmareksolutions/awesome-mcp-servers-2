@@ -4629,6 +4629,22 @@
     "official": false
   },
   {
+    "name": "Polish MCP Servers",
+    "url": "https://github.com/kamilkaczmareksolutions/polish-mcp-servers",
+    "description": "Stdio server with 12 read-only tools for Polish law and public registers (Sejm ELI acts, SAOS judgments, tenders, building permits, land parcels and zoning), each running a public Apify Actor billed to your Apify account.",
+    "category": "legal-and-court-data",
+    "language": "TypeScript",
+    "provider": "Community",
+    "tags": [
+      "legal",
+      "court-data",
+      "poland",
+      "public-registers",
+      "apify"
+    ],
+    "official": false
+  },
+  {
     "name": "Microsoft Teams MCP Server",
     "url": "https://github.com/InditexTech/mcp-teams-server",
     "description": "Interact with Microsoft Teams channels, messages, and meetings.",
